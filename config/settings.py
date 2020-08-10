@@ -25,7 +25,7 @@ SECRET_KEY = 't+4p8oy3uw59f&^2ui2j(@#rz%)ctvk@1bp--wdq!og^nqp@59'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["convergispheresecure--gabejunior1196.repl.co", "convergispheresecure.gabejunior1196.repl.co"]
 
 
 # Application definition
